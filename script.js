@@ -5,7 +5,7 @@ const questions = [
     options: ["GOJEK", "GRAB", "MAXIM", "ALKA"]
   },
   {
-    question: "PICK THE PLACE THAT YOU THINK IS THE BEST PLACE FOR FIRST MEET",
+    question: "PICK THE PLACE THAT YOU THINK IS THE BEST PLACE FOR NEXT MEET?",
     options: ["URBAN FOREST", "UNDERWATER WORLD", "ANYWHERE", "MALL?????"]
   },
   {
