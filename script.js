@@ -4,9 +4,14 @@ const questions = [
     options: ["MOBIL", "GRAB", "MOTOR", "ALKA"]
   },
   {
-    question: "PICK THE PLACE THAT YOU THINK IS THE BEST PLACE FOR NEXT MEET?",
-    options: ["UDAH ALKA IKUT CINTA AJAA", "CINTA YANG IKUT ALKA, "ANY OPTIONS?", "NGOPIII"]
-  },
+  question: "PICK THE PLACE THAT YOU THINK IS THE BEST PLACE FOR NEXT MEET?",
+  options: [
+    "UDAH ALKA IKUT CINTA AJAA",
+    "CINTA YANG IKUT ALKA",
+    "ANY OPTIONS?",
+    "NGOPIII"
+  ]
+},
   {
     question: "WHAT'S YOUR GO TO COMFORT FOOD?",
     options: ["HOME COOKED", "NASI GORENG RS SALAK??", "RAHASIA", "KETOPRAK"]
