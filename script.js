@@ -1,4 +1,3 @@
-
 const questions = [
   {
     question: "AT SOON YOUR RIDE, YOUR CALL, WHO'S IT GONNA BE?",
