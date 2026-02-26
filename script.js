@@ -2,23 +2,23 @@
 const questions = [
   {
     question: "AT SOON YOUR RIDE, YOUR CALL, WHO'S IT GONNA BE?",
-    options: ["GOJEK", "GRAB", "MAXIM", "ALKA"]
+    options: ["MOBIL", "GRAB", "MOTOR", "ALKA"]
   },
   {
     question: "PICK THE PLACE THAT YOU THINK IS THE BEST PLACE FOR NEXT MEET?",
-    options: ["URBAN FOREST", "UNDERWATER WORLD", "ANYWHERE", "MALL?????"]
+    options: ["UDAH ALKA IKUT CINTA AJAA", "CINTA YANG IKUT ALKA, "ANY OPTIONS?", "NGOPIII"]
   },
   {
     question: "WHAT'S YOUR GO TO COMFORT FOOD?",
-    options: ["HOME COOKED", "PIZZA", "BAKSO", "SUSHI"]
+    options: ["HOME COOKED", "NASI GORENG RS SALAK??", "RAHASIA", "KETOPRAK"]
   },
   {
     question: "WHAT KIND OF MUSIC PUTS YOU IN A GOOD MOOD?",
     options: ["POP", "ROCK", "JAZZ", "FOLK/INDIE"]
   },
   {
-    question: "WHEN YOUR IDEAL DAY TO FIRST MEET WITH ME?",
-    options: ["ONLY ON THE WEEKEND", "ONLY ON WEEKDAYS", "SOMEDAY", "I DON'T EVEN KNOW"]
+    question: "WHEN’S YOUR IDEAL DAY TO SEE ME AGAIN?",
+    options: ["ONLY ON THE WEEKEND", "ONLY ON WEEKDAYS", "EVERYDAY", "I DON'T EVEN KNOW"]
   }
 ];
 
